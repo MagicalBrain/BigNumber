@@ -20,7 +20,7 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="BigNum.h">
+    <ClInclude Include="BigNumber.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
