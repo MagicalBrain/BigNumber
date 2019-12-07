@@ -51,7 +51,8 @@ int main_01()
 }
 
 //²âÊÔ¼õ·¨
-int main_02()
+//int main_02()
+int main()
 {
 	char num1[100] = "1234567890";
 	char num2[100] = "7980";
@@ -63,7 +64,7 @@ int main_02()
 	Print_BigNum(Num2);
 
 	Bign re;
-	re = add(Num1, Num2);
+	re = sub(Num1, Num2);
 
 	Print_BigNum(re);
 
